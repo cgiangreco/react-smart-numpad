@@ -6,27 +6,27 @@
   "types": "dist/index.d.ts",
   "author": "Christian Giangreco",
   "license": "MIT",
-  "keywords": [
-    "react",
-    "numpad",
-    "keyboard",
-    "input",
-    "hook"
-  ],
+  "keywords": ["react", "numpad", "hook", "keyboard", "input"],
   "peerDependencies": {
     "react": ">=17.0.0",
     "react-dom": ">=17.0.0"
   },
   "devDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "typescript": "^5.2.2",
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
     "csstype": "^3.1.0"
   },
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgia/react-smart-numpad.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgia/react-smart-numpad/issues"
+  },
+  "homepage": "https://github.com/chrisgia/react-smart-numpad#readme"
 }
