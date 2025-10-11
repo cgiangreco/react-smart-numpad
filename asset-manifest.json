@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-smart-numpad/static/css/main.ca57846c.css",
-    "main.js": "/react-smart-numpad/static/js/main.b7ca6fdc.js",
+    "main.css": "/react-smart-numpad/static/css/main.185aad06.css",
+    "main.js": "/react-smart-numpad/static/js/main.a1a61ef5.js",
     "index.html": "/react-smart-numpad/index.html",
-    "main.ca57846c.css.map": "/react-smart-numpad/static/css/main.ca57846c.css.map",
-    "main.b7ca6fdc.js.map": "/react-smart-numpad/static/js/main.b7ca6fdc.js.map"
+    "main.185aad06.css.map": "/react-smart-numpad/static/css/main.185aad06.css.map",
+    "main.a1a61ef5.js.map": "/react-smart-numpad/static/js/main.a1a61ef5.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca57846c.css",
-    "static/js/main.b7ca6fdc.js"
+    "static/css/main.185aad06.css",
+    "static/js/main.a1a61ef5.js"
   ]
 }
