@@ -7,6 +7,8 @@ Yeah, really annoying I know. **This package fixes that.**
 Just think of it like a small UX enhancement to your existing UI.
 
 ## Quick start
+
+As a React hook: 
 ~~~tsx
 import { useSmartNumpad } from 'react-smart-numpad';
 
