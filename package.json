@@ -1,0 +1,32 @@
+{
+  "name": "react-smart-numpad",
+  "version": "1.0.0",
+  "description": "Makes numpad input consistent — even when NumLock is off.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Christian Giangreco",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "numpad",
+    "keyboard",
+    "input",
+    "hook"
+  ],
+  "peerDependencies": {
+  "react": ">=17.0.0",
+  "react-dom": ">=17.0.0"
+},
+"devDependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "typescript": "^5.2.2",
+  "@types/react": "^18.2.0",
+  "@types/react-dom": "^18.2.0",
+  "csstype": "^3.1.0"
+},
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  }
+}
