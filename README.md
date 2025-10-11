@@ -1,4 +1,4 @@
-# react-smart-numpad
+# react-smart-numpad [![npm version](https://img.shields.io/npm/v/react-smart-numpad.svg)](https://www.npmjs.com/package/react-smart-numpad) [![License: MIT](https://img.shields.io/badge/License-MIT-%23A30000.svg)](LICENSE)
 
 Did it ever occur to you to have to type out numbers into some online form, and before realizing that your NumLock was disabled, the UI starts jumping around, switching to different input fields and everything gets messed up ? 
 
