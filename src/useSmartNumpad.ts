@@ -1,3 +1,7 @@
+/**
+ * react-smart-numpad
+ * MIT License © 2025 Christian Giangreco
+ */
 import React, { useState } from 'react';
 import { handleSmartNumpadKeyDown } from './handleSmartNumpad';
 

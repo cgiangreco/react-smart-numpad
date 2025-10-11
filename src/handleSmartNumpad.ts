@@ -1,3 +1,7 @@
+/**
+ * react-smart-numpad
+ * MIT License © 2025 Christian Giangreco
+ */
 import React from 'react';
 type Options = {
   commaDecimal?: boolean; // default for the decimal is ".". Can be set to true to use "," instead (Europe)
