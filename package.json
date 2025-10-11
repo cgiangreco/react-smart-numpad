@@ -1,38 +1,40 @@
 {
-  "name": "react-smart-numpad",
-  "version": "1.0.4",
-  "description": "Makes numpad input consistent — even when NumLock is off.",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "author": "Christian Giangreco",
-  "license": "MIT",
-  "keywords": [
-    "react",
-    "numpad",
-    "hook",
-    "keyboard",
-    "input"
-  ],
-  "peerDependencies": {
-    "react": ">=17.0.0",
-    "react-dom": ">=17.0.0"
-  },
-  "devDependencies": {
-    "typescript": "^5.0.0",
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0",
-    "csstype": "^3.1.0"
-  },
-  "scripts": {
-    "build": "tsc",
-    "prepare": "npm run build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chrisgia/react-smart-numpad.git"
-  },
-  "bugs": {
-    "url": "https://github.com/chrisgia/react-smart-numpad/issues"
-  },
-  "homepage": "https://github.com/chrisgia/react-smart-numpad#readme"
+    "name": "react-smart-numpad",
+    "version": "1.0.4",
+    "description": "Makes numpad input consistent — even when NumLock is off.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "author": "Christian Giangreco",
+    "license": "MIT",
+    "keywords": [
+        "react",
+        "numpad",
+        "hook",
+        "keyboard",
+        "input"
+    ],
+    "peerDependencies": {
+        "react": ">=17.0.0",
+        "react-dom": ">=17.0.0"
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.0",
+        "@types/react-dom": "^18.0.0",
+        "csstype": "^3.1.0",
+        "typescript": "^5.0.0"
+    },
+    "scripts": {
+        "build": "tsc",
+        "prepare": "npm run build",
+        "demo-build": "cd demo && npm install && npm run build",
+        "deploy-demo": "gh-pages -d demo/build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chrisgia/react-smart-numpad.git"
+    },
+    "bugs": {
+        "url": "https://github.com/chrisgia/react-smart-numpad/issues"
+    },
+  "homepage": "https://chrisgia.github.io/react-smart-numpad"
 }

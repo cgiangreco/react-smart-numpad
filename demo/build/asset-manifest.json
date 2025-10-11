@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-smart-numpad/static/css/main.185aad06.css",
+    "main.js": "/react-smart-numpad/static/js/main.a1a61ef5.js",
+    "index.html": "/react-smart-numpad/index.html",
+    "main.185aad06.css.map": "/react-smart-numpad/static/css/main.185aad06.css.map",
+    "main.a1a61ef5.js.map": "/react-smart-numpad/static/js/main.a1a61ef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.185aad06.css",
+    "static/js/main.a1a61ef5.js"
+  ]
+}
