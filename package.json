@@ -1,6 +1,6 @@
 {
     "name": "react-smart-numpad",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Makes numpad input consistent — even when NumLock is off.",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
