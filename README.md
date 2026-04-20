@@ -6,7 +6,7 @@ Yeah, really annoying I know. **This package fixes that.**
 
 Just think of it like a small UX enhancement to your existing UI.
 
-**Try it out: 🚀 <a href="https://chrisgia.github.io/react-smart-numpad" target="_blank">Live Demo</a>
+**Try it out: 🚀 <a href="https://cgiangreco.github.io/react-smart-numpad" target="_blank">Live Demo</a>
 </span>**
 
 ## Quick start
